@@ -18,4 +18,15 @@ A recommendation model, is an algorithm that aims to provide the most relevant a
 
 Collaborative filtering tackles the similarities between the users and items to perform recommendations. Meaning that the algorithm constantly finds the relationships between the users and their likes and in-turns does the recommendations based on similarities between the movies they like. The algorithm learns the similarities between the movies the users like. The most common technique is by performing cosinesimilarity function to find the similar movies that make up the interest of a particular set user of users based on their ratings. Once cosinesimilarity is calculated we will define a quality threshold to sort movies based on these scores.
 
+## Data Collection:
+
+Bulding a movie recommender system based on collaborative filtering, using MovieLens Dataset which were collected by the GroupLens Research Project
+at the University of Minnesota.
+ 
+### Discription of Dataset: 
+The dataset comprises of following:
+    - 100,000 ratings (1-5) from 943 users on 1682 movies. 
+	  - Each user has rated at least 20 movies. 
+    - Simple demographic info for the users (age, gender, occupation, zip)
+
 
