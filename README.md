@@ -1,7 +1,7 @@
 
 
 
-![movies_small](https://github.com/ranjeetha-virdi/Movie-Recommender/assets/81987445/7b0657b2-f51f-47d3-a3ee-2abf31683859)
+![movies_small](https://github.com/ranjeetha-virdi/Movie-Recommender/assets/81987445/f51acf3b-b2a0-4057-925f-13c47a0091c4)
 
 
 
