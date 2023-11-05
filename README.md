@@ -16,7 +16,7 @@ A recommendation model, is an algorithm that aims to provide the most relevant a
 
 ## Collaborative Filtering:
 
-Collaborative filtering tackles the similarities between the users and items to perform recommendations. Meaning that the algorithm constantly finds the relationships between the users and their likes and in-turns does the recommendations based on similarities between the movies they like. The algorithm learns the similarities between the movies the users like. The most common technique is by performing cosinesimilarity function to find the similar movies that make up the interest of a particular set user of users based on their ratings. Once cosinesimilarity is calculated we will define a quality threshold to sort movies based on these scores.
+Collaborative filtering tackles the similarities between the users and items to perform recommendations. Meaning that the algorithm constantly finds the relationships between the users and their likes and in-turns does the recommendations based on similarities between the movies they like. The algorithm learns the similarities between the movies the users like. The most common technique is by performing cosine similarity function to find the similar movies that make up the interest of a particular set user of users based on their ratings. Once cosinesimilarity is calculated we will define a quality threshold to sort movies based on these scores.
 
 ## Data Collection:
 
